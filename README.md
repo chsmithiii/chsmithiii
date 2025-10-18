@@ -10,7 +10,6 @@ I build measurement and decision systems that turn messy, high-stakes processes 
 ---
 
 ## Selected Work (curated)
-> Lightweight repos you can open and run. (Pin 2–4 once created.)
 
 - **Metric Hunter** — Map any process → surface KPIs, leading/lagging indicators, and levers. *(repo link coming)*
 - **Climate Spiral Template** — NASA-style seasonal spiral for any monthly time series. *(repo link coming)*
