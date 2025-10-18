@@ -1,4 +1,5 @@
 # C. Hakeem Smith, III — Strategy · Data · Product · Systems
+> Evidence to decisions.
 
 Prague, Czechia · US citizen · English (native speaker) | German (elementary) | Czech (basic)
 
