@@ -13,7 +13,7 @@ I build measurement and decision systems that turn messy, high-stakes processes 
 ## Selected Work (curated)
 
 - **Metric Hunter** — Map any process → surface KPIs, leading/lagging indicators, and levers. *(repo link coming)*
-- **Climate Spiral Template** — NASA-style seasonal spiral for any monthly time series. *(repo link coming)*
+- **Signal Spiral Template** — NASA-style signal spiral for any monthly time series. *(repo link coming)*
 - **AWS Transcribe Pipeline** — S3 → Lambda → Transcribe → Athena; production-ish scaffolding with IaC notes. *(repo link coming)*
 
 If you want early access, open an issue and I’ll prioritize docs/examples.
