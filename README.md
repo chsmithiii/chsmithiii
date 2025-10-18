@@ -10,7 +10,7 @@ I build measurement and decision systems that turn messy, high-stakes processes 
 
 ---
 
-## Selected Work (curated)
+## Selected Work
 
 - **Metric Hunter** — Map any process → surface KPIs, leading/lagging indicators, and levers. *(repo link coming)*
 - **Signal Spiral Template** — NASA-style signal spiral for any monthly time series. *(repo link coming)*
