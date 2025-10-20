@@ -1,7 +1,7 @@
 # C. Hakeem Smith, III — Strategy · Data · Product · Systems
 > Evidence to decisions.
 
-Prague, Czechia · US citizen · English (native speaker) | German (elementary) | Czech (basic)
+Prague, Czechia | Berlin, Germany · US citizen · English (native speaker) | German (elementary) | Czech (basic)
 
 I build measurement and decision systems that turn messy, high-stakes processes into repeatable wins. My work spans recruiting analytics, ML-assisted operations, and executive-grade metrics leaders can actually use.
 
@@ -12,8 +12,12 @@ I build measurement and decision systems that turn messy, high-stakes processes 
 
 ## Selected Work
 
-- **Metric Hunter** — Map any process → surface KPIs, leading/lagging indicators, and levers. *(repo link coming)*
-- **Signal Spiral Template** — NASA-style signal spiral for any monthly time series. *(repo link coming)*
+- **Metric Hunter** Map any process → surface KPIs (leading/lagging) and levers.
+[Repo](https://github.com/chsmithiii/metric-hunter) · [![CI](https://github.com/chsmithiii/metric-hunter/actions/workflows/ci.yml/badge.svg)](https://github.com/chsmithiii/metric-hunter/actions/workflows/ci.yml) · Templates + spec YAML.
+- **Signal Spiral Template**  — Seasonality spiral for recurring time-series (recruiting, product, ops).
+[Repo](https://github.com/chsmithiii/signal-spiral) · [![CI](https://github.com/chsmithiii/signal-spiral/actions/workflows/ci.yml/badge.svg)](https://github.com/chsmithiii/signal-spiral/actions/workflows/ci.yml) · Monthly/weekly/daily; PNG export.
+**COVID & Econ Indicators** — Join OWID daily with World Bank macro (GINI, PPP, etc.) 2019→present.
+[Repo](https://github.com/chsmithiii/COVID_and_Econ_Indicators_by_Country) · [![Data update](https://github.com/chsmithiii/COVID_and_Econ_Indicators_by_Country/actions/workflows/update-data.yml/badge.svg)](https://github.com/chsmithiii/COVID_and_Econ_Indicators_by_Country/actions/workflows/update-data.yml) · Weekly auto-refresh.
 - **AWS Transcribe Pipeline** — S3 → Lambda → Transcribe → Athena; production-ish scaffolding with IaC notes. *(repo link coming)*
 
 If you want early access, open an issue and I’ll prioritize docs/examples.
